@@ -1,0 +1,68 @@
+Report created: 
+	25-02-2026	22:03:10
+
+Project name: File03.aep
+
+Source files collected to: 
+	D:\Colorverse\freelance g1\File03 folder
+
+Source files collected: All
+
+Collected comps:  
+	background
+	1st slide
+	Pre-comp 1
+	Pre-comp 2
+	
+Number of collected files:  30
+
+Size of collected files:  308 MB
+
+Collected source files: 
+	C:\Users\Asus\Desktop\sdadw.png
+	C:\Users\Asus\Downloads\1.webp
+	C:\Users\Asus\Downloads\10.webp
+	C:\Users\Asus\Downloads\ChatGPT Image Feb 22, 2026, 12_16_21 AM.png
+	C:\Users\Asus\Downloads\Gemini_Generated_Image_jw86txjw86txjw86.jpg
+	C:\Users\Asus\Downloads\group-indian-women-working-on-260nw-2559919741.webp
+	C:\Users\Asus\Downloads\panchayati-raj-india.webp
+	C:\Users\Asus\Downloads\photo-1569571665379-f952b753ccc7.avif
+	C:\Users\Asus\Downloads\photo-1569571665379-f952b753ccc7.xmp
+	C:\Users\Asus\Downloads\Rashtriya-Gram-Swaraj-Abhiyan-RGSA.webp
+	D:\Colorverse\freelance g1\background.jpg
+	D:\Colorverse\freelance g1\drive-download-20260220T154613Z-1-001\Logo Theme 2.png
+	D:\Colorverse\freelance g1\drive-download-20260220T154613Z-1-001\Modules\M3_1.mp4
+	D:\Colorverse\freelance g1\drive-download-20260220T154613Z-1-001\Modules\OUTRO_M3_1.mp4
+	D:\Colorverse\freelance g1\drive-download-20260220T154613Z-1-001\Music\Background-Music-For-Videos-VLOG-YouTube-Upbeat-Happy-Positive-Motivational.mp3
+	D:\Colorverse\freelance g1\drive-download-20260220T154613Z-1-001\Music\Upbeat-Corporate-Background-Positive-Business.mp3
+	D:\Colorverse\freelance g1\drive-download-20260220T154613Z-1-001\Screenshot 2026-02-18 at 17.17.01.png
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\dswq.png
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\dswq02.png
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\intro-image\National01.png
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\young-indian-farmer-using-laptop-agriculture-field_75648-8654.png
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\अमूर्त सांस्कृतिक\04-oct-1.png
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\अमूर्त सांस्कृतिक\The-Intangible-Cultural-Heritage-of-India-1400x550-c-default.jpg
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\पंचायत और गाँव की पहचान\67d386650db33cbf75b8f96a4ed92a5c.jpg
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\पंचायत और गाँव की पहचान\illustration-village-panchayat-vector-art-260nw-2461591249.webp
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\पंचायत और गाँव की पहचान\india-political-parity-meetings-promoting-party-rural-area-village-north-india-photo-saji-maramon-2BK6B4W.jpg
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\पंचायत और गाँव की पहचान\indian-village-people-group-meeting-vector_1291186-750.avif
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\पंचायत और गाँव की पहचान\indian-village-people-group-meeting-vector_1291186-750.xmp
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\पंचायत और गाँव की पहचान\panchayat-day-260nw-2451862759.webp
+	D:\Colorverse\freelance g1\G1-module-3-images\G1-module-3-images\मूर्त विरासत स्थल\vishv-virasat-divas-desh-ke-prasidh-smarak-aur-sthal.jpg
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  Advanced Spill Suppressor
+	
+Effect:  Color Key
+	
+Effect:  Gaussian Blur (Legacy)
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Mukta”, Font style: “Medium”
+
